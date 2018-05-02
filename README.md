@@ -4,11 +4,11 @@ This autonomous 2D map generating robot was created for the purpose of the ELEC 
 ## Part 1 - Robots Body
 Each individual side is shown as well as the finished project.
 ### View 1
-![Body View 1](Body View 1.jpg)
+![BodyView1](BodyView1.jpg)
 ### View 2
-![Body View 2](Body View 2.jpg)
+![BodyView2](BodyView2.jpg)
 ### Finished Product
-![Finished Product](Finished Product.jpg)
+![FinalProduct](FinalProduct.jpg)
 
 ## Part 2 - Autonomous Driving 
 Using ultrasonic sensors, an Arduino microcontroller was used to make decisions on the go whether to turn depending on the distance of the object in front of the rotbot. The result of the robot being autonomous is shown in the video.(Autonomous Driving.mp4)
